@@ -3,16 +3,16 @@
 
 ## developers:
 
-### -Oleh Havrylchenko 
-### -Saleh Sallam
-### -Horbachov Serhii
-### -Igor Dovganych
-### -Andrii Shulzhenko
+### -Oleh Havrylchenko (Гаврильченко Олег Олегович)
+### -Saleh Sallam (Саллям Салех )
+### -Serhii Horbachov ( )
+### -Igor Dovganych (Довганич Ігор Олександрович)
+### -Andrii Shulzhenko ( )
 
 #                       First task
 ## Figures : 
-### Oleh - rectangle
-### Saleh - rhombus
-### Serhii - parallelogram
-### Igor - right triangle
-### Andrii - equilateral triangle
+### Oleh Havrylchenko - rectangle
+### Saleh Sallam - rhombus
+### Serhii Horbachov - parallelogram
+### Igor Dovganych - right triangle
+### Andrii Shulzhenko - equilateral triangle
