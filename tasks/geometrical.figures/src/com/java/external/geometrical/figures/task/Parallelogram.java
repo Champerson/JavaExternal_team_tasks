@@ -6,12 +6,12 @@
  */
 package com.java.external.geometrical.figures.task;
 
-public class Paralelogram {
+public class Parallelogram {
 
     private final char BLANK = ' ';
     private final char DISPLAYED_SYMBOL = '*';
 
-    public String showParalelogram(int width, int height) throws IllegalAccessException {
+    public String showParallelogram(int width, int height) throws IllegalAccessException {
 
         if( width <= 1 || height <= 1 ){
             throw new IllegalAccessException("Parameters must be greater than 1.");

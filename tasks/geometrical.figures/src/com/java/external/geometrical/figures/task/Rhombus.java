@@ -1,4 +1,4 @@
-package com.java.external;
+package com.java.external.geometrical.figures.task;
 
 public class Rhombus {
     private final int horD = 13;
