@@ -1,5 +1,6 @@
 package com.java.external;
 
+import com.java.external.geometrical.figures.task.EquilateralTriangle;
 import com.java.external.geometrical.figures.task.Paralelogram;
 import com.java.external.geometrical.figures.task.Rectangle;
 
@@ -10,6 +11,9 @@ public class Main {
         Paralelogram paralelogram = new Paralelogram();
         rectangle.rectangleToString();
         System.out.println(paralelogram.showParalelogram(20, 15));
+
+        EquilateralTriangle eTriangle = new EquilateralTriangle( 15);
+        eTriangle.drawEmptyEquilateralTriangle();
         
     }
 }
