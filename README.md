@@ -1,13 +1,13 @@
-#                   Java external course
+﻿#                   Java external course
 #                Repository for team tasks
 
 ## developers:
 
-### -Oleh Havrylchenko (Гаврильченко Олег Олегович)
-### -Saleh Sallam (Саллям Салех )
-### -Serhii Horbachov (Горбачов Сергій Сергійович)
-### -Igor Dovganych (Довганич Ігор Олександрович)
-### -Andrii Shulzhenko (Шульженко Андрій Олексійович)
+### [-Oleh Havrylchenko (Гаврильченко Олег Олегович)](https://github.com/Champerson)
+### [-Saleh Sallam (Саллям Салех )](https://github.com/BurningChuck)
+### [-Serhii Horbachov (Горбачов Сергій Сергійович)](https://github.com/keynod)
+### [-Igor Dovganych (Довганич Ігор Олександрович)](https://github.com/IgorDovganych)
+### [-Andrii Shulzhenko (Шульженко Андрій Олексійович)](https://github.com/ShulzhenkoA)
 
 #                       First task
 ## Figures : 
