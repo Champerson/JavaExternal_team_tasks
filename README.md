@@ -5,9 +5,9 @@
 
 ### -Oleh Havrylchenko (Гаврильченко Олег Олегович)
 ### -Saleh Sallam (Саллям Салех )
-### -Serhii Horbachov ( )
+### -Serhii Horbachov (Горбачов Сергій Сергійович)
 ### -Igor Dovganych (Довганич Ігор Олександрович)
-### -Andrii Shulzhenko ( )
+### -Andrii Shulzhenko (Шульженко Андрій Олексійович)
 
 #                       First task
 ## Figures : 
