@@ -13,5 +13,8 @@ public class Main {
         rhombus.showRhombus();
         EquilateralTriangle eTriangle = new EquilateralTriangle(15);
         eTriangle.drawEmptyEquilateralTriangle();
+
+        RightTriangle rightTriangle =  new RightTriangle();
+        rightTriangle.rightTriangle();
     }
 }
